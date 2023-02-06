@@ -1,4 +1,4 @@
-# employee-reimbursement-system
+# Employee Reimbursement System
 Employee Reimbursement 
 
 An employee reimbursement system with the following features
