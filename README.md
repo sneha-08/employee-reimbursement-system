@@ -1,5 +1,4 @@
 # Employee Reimbursement System
-Employee Reimbursement 
 
 An employee reimbursement system with the following features
 - Employees can add items for reimbursement
