@@ -8,11 +8,11 @@ An employee reimbursement system with the following features
 
 # Installation instructions
 
-```pip install django
-```pip install mysqlclient
+`pip install django
+pip install mysqlclient`
 
 Configure database settings and then execute the following command
-```python manage.py runserver
+`python manage.py runserver`
 
 Type the url
-```localhost:8000
+`localhost:8000`
