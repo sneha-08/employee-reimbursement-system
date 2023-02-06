@@ -11,7 +11,9 @@ An employee reimbursement system with the following features
 
 `pip install mysqlclient`
 
-Configure mysql database settings and then execute the following command
+Configure mysql database and populate table using the `dump` file
+
+Then execute the following command
 
 `python manage.py runserver`
 
