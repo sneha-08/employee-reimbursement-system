@@ -12,10 +12,13 @@ An employee reimbursement system with the following features
 
 `pip install mysqlclient`
 
-Configure database settings and then execute the following command
+Configure mysql database settings and then execute the following command
 
 `python manage.py runserver`
 
 Type the url
 
 `localhost:8000`
+
+Schema and Use Case:
+https://drive.google.com/file/d/1Xg-UDUu1Gis5girBFcRv1G_TY6aNuSCK/view
